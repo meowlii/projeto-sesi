@@ -1,0 +1,59 @@
+.corpo{
+	background-color: rgb(169, 4, 4);
+}
+.topo{
+	background-color: rgb(169, 4, 4);
+}
+.espaco {
+
+    font-family: sans-serif;
+    background-color: c3092f;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+}
+
+
+.fazerparte {
+
+    font-family: sans-serif;
+	background-color: f28061;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+}
+
+
+.histsesi {
+
+    font-family: sans-serif;
+	background-color: faf6f6;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+}
+
+
+.xchng {
+
+    font-family: sans-serif;
+	background-color: e77cb3;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+}
+
+
+.albd {
+
+    font-family: sans-serif;
+	background-color: a20021;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+}
